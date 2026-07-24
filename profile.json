@@ -1,0 +1,59 @@
+{
+  "login": "derFinlay",
+  "hero_output": "Finlay Sandy Gress — Platform Engineer & automation enthusiast",
+  "career_start": "2021-02-14",
+  "tasks": ["go", "typescript", "react", "terraform"],
+  "cgroup": [
+    "platform engineering — GitHub Enterprise at scale, ~2,100 repos, IAM automation",
+    "full-stack delivery — Go · React · TypeScript · Cloudflare",
+    "ai-agentic development — Claude Code daily, multi-agent setups",
+    "home automation & linux — Home Assistant, Arch, Hyprland"
+  ],
+  "career": [
+    {
+      "unit": "career-gema.service",
+      "active": true,
+      "desc": "Cloud Platform Engineer · GEMA",
+      "period": "2026 – now"
+    },
+    {
+      "unit": "career-itgress.service",
+      "active": true,
+      "desc": "Founder & IT Consultant · IT Service Gress",
+      "period": "2025 – now"
+    },
+    {
+      "unit": "career-it4ipm.service",
+      "active": false,
+      "desc": "Apprentice Software Engineer · IT4IPM",
+      "period": "2024 – 2026"
+    },
+    {
+      "unit": "career-beta.service",
+      "active": false,
+      "desc": "Apprentice Software Engineer · Beta Systems",
+      "period": "2023"
+    }
+  ],
+  "skills": [
+    ["claude-code", 10],
+    ["cloudflare", 8],
+    ["github-actions", 9],
+    ["go", 8],
+    ["home-assistant", 9],
+    ["linux", 10],
+    ["postgresql", 7],
+    ["react", 8],
+    ["terraform", 7],
+    ["typescript", 9]
+  ],
+  "project_descriptions": {
+    "basecrm": "CRM system built from scratch",
+    "cloudflare-ddns-updater": "keeps my homelab reachable from anywhere",
+    "wolCli": "wake machines from the terminal"
+  },
+  "contact": {
+    "email": "finlay.gress@gmail.com",
+    "web": "it-gress.de"
+  }
+}
